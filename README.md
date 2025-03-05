@@ -49,10 +49,3 @@ Clone this repository and install dependencies by running `pnpm`(Node.js version
 8. `Edit Signed PDF`: After signing, click the edit button to edit the signed PDF file.
 9. `Batch Operation`: Batch archive, delete and reduction files
 
-## Contribution
-
-Contributions are welcome! If you have any suggestions or improvements, please submit a Pull Request or create an Issue.
-
-## License
-
-This project is licensed under the [MIT](https://opensource.org/licenses/MIT) License - see the [LICENSE](./LICENSE) file for details.
