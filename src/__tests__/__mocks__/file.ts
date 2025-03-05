@@ -3,7 +3,7 @@ import { type Page } from '@playwright/test';
 import { importModule } from './common';
 import type { PdfStore } from '@/store';
 
-const MOCK_BASE64_IMAGE = `data:image/png;base64,${readFileSync('src/assets/logo/logo_darkbg_horizontal.png', 'base64')}`;
+const MOCK_BASE64_IMAGE = `data:image/png;base64,${readFileSync('src/assets/logo/logo.png', 'base64')}`;
 
 export const MOCK_FILES = [
   {

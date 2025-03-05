@@ -46,8 +46,8 @@ function onTransitionEnd(event: TransitionEvent) {
   <header class="sign_header">
     <router-link to="/">
       <img
-        src="@/assets/logo/logo_darkbg_horizontal.png"
-        class="w-36 md:w-[228px]"
+        src="@/assets/logo/logo.png"
+        class="w-36"
         alt="logo"
       />
     </router-link>
@@ -90,7 +90,7 @@ function onTransitionEnd(event: TransitionEvent) {
         </teleport>
       </div>
 
-      <a
+      <!-- <a
         href="https://github.com/tzuyi0817/PDF-signature"
         target="_blank"
         rel="noopener noreferrer"
@@ -99,7 +99,7 @@ function onTransitionEnd(event: TransitionEvent) {
           name="github"
           class="sign_header_icon text-gray-40"
         />
-      </a>
+      </a> -->
     </div>
   </header>
 </template>
